@@ -1,0 +1,24 @@
+{
+  "name": "hsbc-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KS6000/HSBC-Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KS6000/HSBC-Automation/issues"
+  },
+  "homepage": "https://github.com/KS6000/HSBC-Automation#readme",
+  "devDependencies": {
+    "cypress": "^15.13.0"
+  }
+}
