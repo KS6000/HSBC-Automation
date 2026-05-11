@@ -1,5 +1,7 @@
 # HSBC Automation Testing Project (Cypress)
 
+[![Cypress Tests](https://github.com/KS6000/HSBC-Automation/actions/workflows/cypress.yml/badge.svg)](https://github.com/KS6000/HSBC-Automation/actions/workflows/cypress.yml)
+
 🚀 Built as part of an Automation Test Engineer training project, demonstrating real-world Cypress testing skills.
 
 This project demonstrates end-to-end automation testing of key HSBC website functionalities using Cypress and the Page Object Model (POM) design pattern. It simulates real-world user journeys on a live banking website and validates key UI and functional behaviours.
